@@ -1,7 +1,7 @@
 /* how to download new fonts? */
 body {
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: Manrope;
     color: black;
     background-color: #A0AECD;
 }
@@ -12,7 +12,7 @@ header {
     width: 100vw;
     display: flex;
     justify-content: space-between;
-    font-family: sans-serif;
+    font-family: Manrope;
     color: black;
 }
 
